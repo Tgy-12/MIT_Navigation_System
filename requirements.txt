@@ -1,0 +1,5 @@
+Pillow>=10.1.0
+# Tkinter ships with Python - nothing else is needed to run main.py.
+# Only for re-making campus_map.png from img_1.png (prep_map.py):
+opencv-python
+numpy
