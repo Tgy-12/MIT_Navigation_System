@@ -87,6 +87,16 @@ The screenshot below shows the campus exploration process starting from MIT Dorm
 
 - Python 3
 - pip
+  
+###cloning the github repo
+```
+git init
+git add .
+git commit -m "initail comiit or just wait"
+git clone https://github.com/Tgy-12/MIT_Navigation_System.git
+git push -u origin main
+```
+
 
 ### Installation
 
